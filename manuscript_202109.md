@@ -1,12 +1,9 @@
 ---
 title: "COMPARATIVA DE USO DE ENCUESTAS LIKERT Y DICOTÓMICAS PARA LA RECOPILACIÓN DE LA OPINIÓN DEL ALUMNADO"
 author: "Álvarez Hernández, M. y Suárez García, A."
-date: ""
+date: "Sept 2021"
 lang: "es-ES"
 ---
-
-
-
 
 ## ABSTRACT
 
@@ -17,10 +14,15 @@ Las encuestas en escala Likert son las protagonistas indiscutibles en las evalua
 ## 1. INTRODUCCIÓN
 
 La evaluación de la actividad docente por parte de los estudiantes ocupa un lugar inamovible en la enseñanza universitaria. Hace décadas, la labor docente era realizada sin recoger la opinión de quien recibía la enseñanza. El estudiante no podía dar su valoración sobre las enseñanzas recibidas. Ello dificultaba el tener algún tipo  de registro sobre la calidad de las clases impartidas. En aras de la mejora, es necesario medir. En otras palabras, lo que no se mide, no se puede mejorar. La medida recogida por las encuestas puede ser utilizada o no por el docente para ser autocrítico con su labor. Además, ello ha permitido dar voz al estudiante. Es cierto que el alumno puede dejarse llevar por sus emociones en la evaluación, pero no se puede menoscabar este instrumento aludiendo a un mal uso generalizado. La evaluación docente es una poderosa herramienta que ha de ser utilizada responsablemente por parte de todas las partes implicadas.
+
 La escala de Likert fue publicada por el educador y psicólogo Rensis Likert en 1932. Se emplea habitualmente en investigaciones de psicología, sociología, negocios y marketing que utilizan cuestionarios de opinión como fuente de datos. Esta mide el nivel de acuerdo o desacuerdo para una afirmación, utilizándose una escala simétrica. En otras palabras, captura la intensidad del sentimiento hacia un enunciado. Se puede crear una escala utilizando el promedio de las respuestas a un cuestionario. El hacerlo, lleva asociada una hipótesis que no se puede obviar: se asume que las distancias entre cada opción disponible son iguales. Esto puede ser cuestionable, puesto que cada persona tiene su propia escala interna asociada a sus sentimientos. Aunque se da por hecho cierta similitud debido al significado común de las palabras que forman el lenguaje. Otro punto de debate reside en el número de opciones a utilizar y su naturaleza par. Se puede utilizar una escala con un número par de opciones de respuesta (elección forzada) o un número impar (neutral). Por ejemplo, si existiesen cinco valores, la elección neutral sería la tercera donde no hay posicionamiento claramente favorable o desfavorable. La opción neutral se suele ver como la opción tomada por la persona encuestada cuando no está segura. Es cuestionable si es una opción verdaderamente neutral, puesto que se aproximaría más a una "no sabe / no contesta". Este tipo de escala Likert de cinco opciones suele utilizarse en el ámbito de la Educación.
+
 Otro uso de las aplicaciones de los resultados obtenidos por las encuestas docentes reside en los procedimientos de calidad. A día de hoy, la calidad ocupa un lugar primordial en las enseñanzas universitarias. Son varios los sellos de calidad existentes y, para ello, se recopilan las evaluaciones docentes a lo largo de los años. En los procesos de calidad a los cuales se ha podido acceder, se utiliza la media de la puntuación obtenida para constatar la tendencia temporal de los diferentes apartados. Se busca la mejora continua. Resulta llamativo cómo se utilizan las respuestas obtenidas en la escala Likert: se usa el valor esperado de los valores numéricos recogidos, de tal forma que toda la información queda reducida a un solo número representativo. También hay que destacar que este es el procedimiento menos farragoso y más habitual para registrar la progresión temporal. Sería realmente complejo utilizar una métrica compuesta de varios agregados para evaluar la tendencia. La puntuación media puede considerarse un porcentaje de un máximo. Por ejemplo, obtener un promedio de 3 sobre 5 es equivalente a obtener un 60 % del máximo posible. ¿Será esto el equivalente a obtener un 60 % de "me gusta" en una pregunta dicotómica?  
+
 Desde hace unos años, estamos sometidos varias veces al día a encuestas dicotómicas sin darnos cuenta. En las redes sociales, suelen habilitarse dos iconos en forma de pulgar arriba o pulgar abajo para que el usuario evalúe una publicación. Hay grandes plataformas de ocio que cambiaron su forma de evaluar de una escala Likert a una escala dicotómica. Ello indica que la información arrojada por una encuesta binaria es suficiente para mejorar un producto o un servicio. Estrictamente hablando, se le dan al usuario tres opciones: me gusta, no me gusta y no contestar. Sin embargo, a la hora de compararlo con las encuestas de evaluación docentes, al estudiante se le pide que evalúe todo aquello que pueda. No se le menciona explícitamente la opción de dejar el apartado en blanco.
+
 ¿Por qué plantearse el uso de las encuestas "me gusta / no me gusta"? Son varias las mejoras que puede aportar al proceso. La principal ventaja es la familiaridad del estudiante con su uso por utilizarlas a diario. Debido a ello, completarán las encuestas de forma más cómoda y más rápida, predisponiendo al estudiante a su uso. Además, la persona usuaria se ve obligada a polarizar su opinión. Es ella misma la que realiza un proceso de redondeo. No se le da opción a una respuesta neutral. Esto también puede verse como una desventaja. Se está perdiendo información en la recogida de opinión, puesto que se le dan dos opciones solamente. Sin embargo, tal y como se comentó, debido al uso final que se da de los resultados obtenidos en los procesos de calidad, esa pérdida resulta asumible. Por una parte, estaría el valor esperado, transformable a un ratio de éxito; por el otro, está el ratio de "me gusta / total". Ambas métricas pueden compararse, puesto que la información que aporta es muy similar.
+
 Este trabajo compara la información que se puede extraer de dos encuestas cuya única diferencia reside en la respuesta. En uno de los casos se utilizó la escala Likert y en el otro la escala dicotómica "me gusta / no me gusta". Las asignaturas utilizadas corresponden al primer cuatrimestre del curso académico 2019-2020 del Grado de Ingeniería Mecánica impartido en el Centro Universitario de la Defensa en la Escuela Naval Militar (CUD-ENM).  Se analizaron los datos aportados, pre-procesándolos para permitir su comparación y realizándose un estudio estadístico al respecto}. Los resultados obtenidos demuestran que la información aportada por las encuestas dicotómicas es equivalente a las Likert, habida cuenta del manejo la información obtenida.
 
 
@@ -28,10 +30,12 @@ Este trabajo compara la información que se puede extraer de dos encuestas cuya 
 
 El problema a estudiar es si la escala influye en el entrevistado a la hora de responder a una pregunta, no pudiendo considerar similar la información aportada por ambos tipos de encuesta (Likert y dicotómica); o, por el contrario, no resulta relevante el tipo de escala a utilizar, lo que implicaría una justificación en favor de realizar encuestas de tipo dicotómico. Para realizar este estudio, se realizaron una serie de preguntas relacionadas con la asignatura en escala Likert y en escala dicotómica (Figura 1). Ambas encuestas estaban formadas por las mismas preguntas. Para poder comparar ambos resultados mediante un análisis estadístico, se hizo necesario transformar los resultados de la escala Likert a escala dicotómica. Esta sección explica en detalle cada uno de los citados pasos.
 
+
 <!--- En formato html para poder redimensionarlo -->
+<p align="center"> Figura 1 Flujo de trabajo</p>
 <p align="center">
-<img src="Figura_0.png" align="center" width="400" height="400" alt="Figura 1 Flujo de trabajo">
-</p>
+<img src="manuscript_202109_files/Figura_0.png" align="center" width="350" height="250" alt="Figura 1 Flujo de trabajo">
+</p >
 
 
 ### 2.1 Encuestas
@@ -68,7 +72,7 @@ knitr::kable(head(data,n=7), "simple", align = "lccccccc", caption ="Tabla 2 Tab
 
 
 
-Table: Tabla 2 Tabla de frecuencias para la asignatura FSF donde SI_# (NO_#) es el nº de respuestas "favorables" (respuestas "desfavorables") de la pregunta y TOTAL_# el nº total de respuestas en la encuesta #, con #  = L correspondiente a la escala Likert y # = B correspondiente a la escala dicotómica.
+Tabla 2 Tabla de frecuencias para la asignatura FSF donde SI_# (NO_#) es el nº de respuestas "favorables" (respuestas "desfavorables") de la pregunta y TOTAL_# el nº total de respuestas en la encuesta #, con #  = L correspondiente a la escala Likert y # = B correspondiente a la escala dicotómica.
 
 |ABREV    |QUESTION    |SI_L    |NO_L    |TOTAL_L    |SI_B    |NO_B    |TOTAL_B|
 |:------:  |:----------:  |:------:  |:------:  |:---------:  |:------:  |:------:  |:---------:|
@@ -154,11 +158,9 @@ knitr::kable(C, "simple", caption = "Tabla 3 Resultado del test de homogeneidad 
 ```
 
 
+Tabla 3 Resultado del test de homogeneidad de proporciones para cada pregunta en cada asignatura
 
-Table: Tabla 3 Resultado del test de homogeneidad de proporciones para cada pregunta en cada asignatura
-
-
-|Q1.1     |Q1.2     |Q1.3     |Q1.4     |Q1.5     |Q2.1     |Q2.2|
+|      |Q1.1    |Q1.2    |Q1.3    |Q1.4    |Q1.5    |Q2.1    |Q2.2|
 |:----:|:-------:|:-------:|:-------:   |:-------:  |:-------:  |:-------:  |:-------:  |
 |FSF    |0.3384   |0.7559   |0.7555   |0.8858   |0.6822   |0.0875   |0.3891|
 |IT1    |0.9377   |0.5585   |0.5185   |0.9804   |0.7827   |0.7894   |0.9750|
@@ -180,7 +182,7 @@ ggtitle("Figura 2: Representación de los p-valores del test de homogeneidad \nd
 Grafico
 ```
 
-![](manuscript_202109_files/figure-html/grafico-1.png)<!-- -->
+![](manuscript_202109_files/grafico-1.png)<!-- -->
 
 
 Adicionalmente, si se quiere estimar entre qué valores se encuentra la diferencia <img src="https://render.githubusercontent.com/render/math?math=d=p_2-p_1"> poblacional en cada pregunta para cada asignatura, se pueden construir los intervalos de confianza (IC) a un nivel del <img src="https://render.githubusercontent.com/render/math?math=1-%5Calpha%20%3D%2095%20%5C%25"> para cada caso. Así, habiendo obtenido los datos de interés (límite inferior y límite superior) a partir del proceso realizado en el punto anterior, se muestran en el gráfico Figura 3 los intervalos para cada asignatura y cada pregunta. Se puede observar que en todos los casos el valor de la diferencia nula está dentro de cada IC, como cabría esperar dadas las salidas obtenidas en los contrastes de hipótesis realizados.
@@ -201,7 +203,7 @@ labs(x="Asignaturas",y="IC (d)") +
 ggtitle("Figura 3: Intervalos de confianza para la diferencia de proporciones de cada \npregunta en cada asignatura") + theme_minimal() + geom_hline(yintercept=0.0,color="red",linetype="dotted") + theme_bw()
 ```
 
-![](manuscript_202109_files/figure-html/intervalos-1.png)<!-- -->
+![](manuscript_202109_files/intervalos-1.png)<!-- -->
 
 
 ## 4. CONCLUSIONES
